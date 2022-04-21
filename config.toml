@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://davidfdaf.github.io/'
 title = 'David Personal Page'
 theme = 'hugo-bearblog'
 publishDir = 'docs'

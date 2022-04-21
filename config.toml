@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 title = 'David Personal Page'
 theme = 'hugo-bearblog'
+publishDir = 'docs'
 
 [permalinks]
   blog = "/:slug/"

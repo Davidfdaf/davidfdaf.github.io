@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on David Personal Page</title>
-    <link>http://example.org/</link>
+    <link>https://davidfdaf.github.io/</link>
     <description>Recent content in About Me on David Personal Page</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://davidfdaf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://example.org/projects/</link>
+      <link>https://davidfdaf.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/</guid>
-      <description>Resume Finance Projects https://github.com/Davidfdaf/David_Personal_Projects
+      <guid>https://davidfdaf.github.io/projects/</guid>
+      <description>Resume Resume
+Github Projects Github
 Work Experience Gaussian Mixture Modeling, Feature Importance and Predictive Modeling on proprietary coparenting dataset for Dr. Daniel Puhlman at The University of Maine
 Education Cornell Graduating in May 2022 Masters in Financial Engineering with a Data Science certificate
+University of York Graduated in June 2021 Mathematical Finance certificate
 University of Maine Graduated in May 2020 Bachelors of Science in Engineering Physics with minors in math and mechanical engineering</description>
     </item>
     
